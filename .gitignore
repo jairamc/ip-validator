@@ -1,0 +1,15 @@
+target/
+reports/
+*.class
+*.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# Local config with secrets
+application-local.properties
